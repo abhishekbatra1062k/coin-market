@@ -8,12 +8,12 @@
 
 #### STEPS:
 
-1. Clone repository using git clone command
+## 1. Clone repository using git clone command
  - git clone "<Repo Link>"
 
-2. Open 3 Terminals inside this repository
+## 2. Open 3 Terminals inside this repository
 
-3. 1st Terminal
+## 3. 1st Terminal
   Step 1: Change directory to coin-market-backend
   - cd coin-market-backend
 
@@ -30,7 +30,7 @@
   - python manage.py runserver
 
 
-4. 2nd Terminal:
+## 4. 2nd Terminal:
   Step 1: Activate the same environment here as well
   - coin-market-backend/venv/Scripts/activate
 
@@ -41,7 +41,7 @@
   - python coin.py
 
 
-5. 3rd Terminal:
+## 5. 3rd Terminal:
   Step 1: Change directory to coin-market-frontend
   - cd coin-market-frontend
 
