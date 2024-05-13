@@ -51,5 +51,5 @@
   Step 3: run react project
   - npm start
 
-Web Page Preview:
+### Web Page Preview:
 ![Web Page Screenshot](Images/Screenshot.png)
