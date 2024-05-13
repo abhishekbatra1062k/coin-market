@@ -52,4 +52,4 @@
   - npm start
 
 Web Page Preview:
-![Web Page Screenshot](Images\Screenshot.png)
+![Web Page Screenshot](Images/Screenshot.png)
