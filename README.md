@@ -9,7 +9,7 @@
 #### STEPS:
 
 ## 1. Clone repository using git clone command
- - git clone "<Repo Link>"
+ - git clone "https://github.com/abhishekbatra1062k/coin-market.git"
 
 ## 2. Open 3 Terminals inside this repository
 
